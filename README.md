@@ -38,6 +38,4 @@ Files | Description
 
 
 ## Authors
-Laura Roudge
-Ethan Mayer
-Cohort 8 - Holberton School
+Sheriff Gaye
